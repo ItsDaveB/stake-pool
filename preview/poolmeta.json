@@ -1,0 +1,8 @@
+{
+  "name": "Cardano Dave Pool (Preview)",
+  "ticker": "DAVE",
+  "description": "",
+  "homepage": "",
+  "nonce": "",
+  "extended": "https://raw.githubusercontent.com/dpbeaumont/stake-pool/main/extended-metadata.json" 
+}
